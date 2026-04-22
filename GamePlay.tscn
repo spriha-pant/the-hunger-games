@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://u8rtc4c8ub5n"]
+
+[ext_resource type="Script" uid="uid://iphdmosdk333" path="res://Main.gd" id="1_lox14"]
+
+[node name="Node2D" type="Node2D" unique_id=343190466]
+script = ExtResource("1_lox14")
